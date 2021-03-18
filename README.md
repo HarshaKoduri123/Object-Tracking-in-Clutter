@@ -11,7 +11,7 @@ More detailed description of this algorithm can be found in this [paper](https:/
 #### Multiple Hypothesis Tracking
 More detailed description of this algorithm can be found in this [paper](https://ieeexplore.ieee.org/abstract/document/1263228).
 
-## Outputs
+## Output
 ![alt text](https://github.com/HarshaKoduri123/Object-Tracking-in-Clutter/blob/main/Outputs/output.png?raw=true)
 
 #### RMSE Scores:
