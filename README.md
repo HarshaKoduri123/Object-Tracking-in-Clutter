@@ -6,7 +6,7 @@ I implemented three different algorithms for tracking n-objects in clutter envir
 More detailed description of this algorithm can be found in this [paper](https://www.researchgate.net/publication/228601003_A_study_of_a_target_tracking_algorithm_using_global_nearest_neighbor_approach).
 
 #### Joint Probabilistic Data Association
-More detailed description of this algorithm can be found in this IEEE [paper](https://ieeexplore.ieee.org/document/4046781-jpda).
+More detailed description of this algorithm can be found in this IEEE [paper](https://ieeexplore.ieee.org/document/4046781).
 
 #### Multiple Hypothesis Tracking
 More detailed description of this algorithm can be found in this IEEE [paper](https://ieeexplore.ieee.org/abstract/document/1263228).
