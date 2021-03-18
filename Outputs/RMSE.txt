@@ -1,0 +1,1 @@
+Root mean square error: GNN: 6.674; JPDA: 6.530; MHT: 6.681.
